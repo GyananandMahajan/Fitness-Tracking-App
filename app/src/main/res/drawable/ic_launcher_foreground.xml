@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Semi-transparent glowing circular background -->
+    <path
+        android:fillColor="#1500F2FE"
+        android:pathData="M54,54m-42,0a42,42 0,1 1,84 0a42,42 0,1 1,-84 0" />
+
+    <!-- Premium Heart Silhouette in Electric Crimson -->
+    <path
+        android:fillColor="#FFFF0844"
+        android:pathData="M 54 36 C 44 20, 24 30, 24 50 C 24 70, 54 88, 54 88 C 54 88, 84 70, 84 50 C 84 30, 64 20, 54 36 Z" />
+
+    <!-- Stylized Neon Pulse ECG Line overlay in Electric Cyan -->
+    <path
+        android:strokeColor="#FF00F2FE"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 22 54 L 40 54 L 46 64 L 54 34 L 62 74 L 68 54 L 86 54" />
+</vector>

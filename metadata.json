@@ -1,0 +1,6 @@
+{
+  "name": "Real Fitness Tracking App",
+  "description": "A premium, dark-mode fitness tracking application with wearable heart-rate integration, biometric trends, local Room storage, and AI workout insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
